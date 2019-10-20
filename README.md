@@ -1,6 +1,6 @@
 # ペンギン育成3D ストアリダイレクト
 ## AppStore
-- https://apps.apple.com/app/id1461042810
+- https://apps.apple.com/jp/app/id1363486843
 
 ## GooglePlay
 - https://play.google.com/store/apps/details?id=com.kamakurablog.suzuran.suzuran2017penguin.dist
